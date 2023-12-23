@@ -26,8 +26,7 @@ header {
     cursor: pointer;
 }
 
-.logo:hover {
-    transform: scale(1.1) translate(-3%, -3%);
+
 
 }
 
@@ -54,8 +53,7 @@ header {
     font-weight: 600;
 }
 
-.login-button:hover {
-    transform: scale(1.1) translate(-3%, -3%);
+
 
 }
 
@@ -113,8 +111,7 @@ header {
 
 }
 
-.custom-button:hover {
-    transform: scale(1.1) translate(-3%, -3%);
+
 
 }
 
@@ -195,8 +192,7 @@ header {
 
 }
 
-.subjects-container div>button:hover {
-    transform: scale(1.1) translate(-3%, -3%);
+
 
 }
 
@@ -220,13 +216,7 @@ header {
     height: 30px;
 }
 
-.close-button-container img:hover {
-    cursor: pointer;
-    /* transform: scale(1.1) translate(-3%, -3%); */
-    background-color: #f50a0aef;
-    /* transform: scale(0.1s); */
 
-}
 
 /* style.css */
 #overlay-wrapper {
@@ -331,10 +321,7 @@ header {
 
 }
 
-#previous-button:hover {
-    transform: scale(1.1) translate(-3%, -3%);
 
-}
 
 #skip-button {
     font-weight: 500;
@@ -346,10 +333,7 @@ header {
     color: #FCC822;
 }
 
-#skip-button:hover {
-    transform: scale(1.1) translate(-3%, -3%);
 
-}
 
 #category-page {
     display: none;
@@ -381,10 +365,6 @@ header {
     color: #fff;
     border: none;
     border-radius: 4px;
-}
-
-.btn:hover {
-    background-color: #0056b3;
 }
 
 .selected {
